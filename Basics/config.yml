@@ -5,3 +5,10 @@ summary: A typical workflow in Remix
 level: 1
 tags: 
   - Remix
+steps:
+  - name: 1 intro ui
+    path: 1._Interface_introduction
+  - name: 2 Load and compile
+    path: 2_Load_and_compile
+  - name: 3 Deploy
+    path: 3._Deploy_to_the_JavascriptVM
