@@ -12,3 +12,5 @@ steps:
     path: 2_Load_and_compile
   - name: 3 Deploy
     path: 3._Deploy_to_the_JavascriptVM
+  - name: 4 something
+    path: 4._not_exists
